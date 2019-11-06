@@ -1,3 +1,3 @@
 # Codeforces
-All problems solvedin codeforces.
+All problems solved in codeforces.
 
