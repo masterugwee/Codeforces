@@ -1,2 +1,3 @@
 # Codeforces
-All problems solved by me in codeforces. Username :- masterugwee
+All problems solvedin codeforces.
+
